@@ -1,0 +1,4 @@
+municipality;rate;frequency;ranges
+Copenhagen;0.2;1;01.01.2020-31.12.2020
+Copenhagen;0.4;12;01.05.2020-31.05.2020,01.07.2020-31.07.2020
+Copenhagen;0.1;Daily;01.01.2020,25.12.2020

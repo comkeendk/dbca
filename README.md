@@ -1,2 +1,2 @@
 # dbca
-Repo for conding assignment for Danske Bank
+Repo for coding assignment for Danske Bank
